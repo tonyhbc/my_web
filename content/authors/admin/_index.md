@@ -17,7 +17,7 @@ organizations:
 bio: I do research in biostatistics and epidemiological methods.
 
 # Interests to show in About widget
-Research Interest:
+interests:
 - Causal Inference & Meidation
 - Missing Data & Measurement Error
 - Survival Analysis
