@@ -18,9 +18,10 @@ bio: I do research in biostatistics and epidemiological methods.
 
 # Interests to show in About widget
 interests:
-- Causal Inference & Meidation
-- Missing Data & Measurement Error
+- Causal Inference & Mediation
+- Missing & Mismeasured Data
 - Survival Analysis
+- Tree-based Methods
 - Cancer Clinical Epidemiology
 
 # Education to show in About widget
