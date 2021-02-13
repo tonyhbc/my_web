@@ -69,6 +69,6 @@ email: ""
 highlight_name: true
 ---
 
-I am a first-year PhD student at the Quantitative Biomedical Sciences (QBS) Program of Geisel School of Medicine at Dartmouth College. I am an applied biostatistician and epidemiologist with multidisplinary trainings in biostatistics, epidemiology, and bioinformatics.
+I am an incoming PhD student at the Quantitative Biomedical Sciences (QBS) Program of Geisel School of Medicine at Dartmouth College. I am an applied biostatistician and epidemiologist with multidisplinary trainings in biostatistics, epidemiology, and bioinformatics.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
