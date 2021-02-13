@@ -26,11 +26,11 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: *Ph.D.* in Quantitative Biomedical Sciences
-    institution: __Dartmouth College__, Hanover, NH
+  - course: Ph.D. in Quantitative Biomedical Sciences
+    institution: Dartmouth College, Hanover, NH
     year: 2026 (expected)
-  - course: *B.S.* in Biology | Applied Mathematics & Statistics
-    institution: __Emory University__, Atlanta, GA
+  - course: B.S. in Biology | Applied Mathematics & Statistics
+    institution: Emory University, Atlanta, GA
     year: 2021
 
 # Social/Academic Networking
