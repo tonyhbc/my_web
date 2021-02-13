@@ -11,7 +11,7 @@ role: PhD Student
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Dartmouth College
-  url: https://www.dartmouth.edu/
+  url: https://geiselmed.dartmouth.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: I do research in biostatistics and epidemiological methods.
