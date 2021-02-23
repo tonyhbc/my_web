@@ -2,10 +2,10 @@
 name = "t"
 
 # Optional Google font URL
-google_fonts = "Newsreader:400,400i,600,600i|Newsreader:400,400i,600,600i|Overpass+Mono"
+google_fonts = "Newsreader:400,400i,600,600i|Newsreader:400,400i,600,600i|Cutive+Mono"
 
 # Font families
 heading_font = "Newsreader"
 body_font = "Newsreader"
 nav_font = "Newsreader"
-mono_font = "Overpass Mono"
+mono_font = "Cutive Mono"
