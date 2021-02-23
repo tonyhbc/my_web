@@ -2,10 +2,10 @@
 name = "t"
 
 # Optional Google font URL
-google_fonts = "Cinzel:500|Newsreader:400,400i,600,600i|PT+Mono|Press+Start+2P"
+google_fonts = "Cinzel:500|Newsreader:400,400i,600,600i|PT+Mono|Baumans"
 
 # Font families
 heading_font = "Cinzel"
 body_font = "Newsreader"
-nav_font = "Press Start 2P"
+nav_font = "Baumans"
 mono_font = "PT Mono"
