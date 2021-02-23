@@ -5,9 +5,9 @@ name = "t_theme"
 light = true
 
 # Primary
-primary = "#12312b"
-primary_light = "#12312b"
-primary_dark = "#12312b"
+primary = "#00693e"
+primary_light = "#00693e"
+primary_dark = "#00693e"
 
 # Menu
 menu_primary = "#00693e"
