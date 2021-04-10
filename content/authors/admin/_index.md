@@ -30,7 +30,7 @@ education:
   - course: Ph.D. in Quantitative Biomedical Sciences
     institution: Dartmouth College, Hanover, NH
     year: 2026 (expected)
-  - course: B.S. in Biology | Applied Mathematics & Statistics
+  - course: B.S. (_summa cum laude_) in Biology | Applied Mathematics & Statistics
     institution: Emory University, Atlanta, GA
     year: 2021
 
