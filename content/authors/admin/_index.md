@@ -41,7 +41,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:haobin.chen.gr@dartmouth.edu'
+  link: mailto:haobin.chen.gr@dartmouth.edu
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/
