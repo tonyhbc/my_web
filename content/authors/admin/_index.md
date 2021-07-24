@@ -20,7 +20,7 @@ bio: I do research in biostatistics and epidemiological methods.
 interests:
 - Causal Inference & Mediation
 - Missing & Mismeasured Data
-- Survival Analysis
+- Regularized Regression
 - Tree-based Methods
 - Cancer Clinical Epidemiology
 
