@@ -70,7 +70,7 @@ email: ""
 highlight_name: true
 ---
 
-I am a PhD student in the [**Quantitative Biomedical Sciences**](https://geiselmed.dartmouth.edu/qbs/) Program at Geisel School of Medicine of Dartmouth College. I am a biomedical data scientist and applied biostatistician with trainings in `Statistical Theory`, `Epidemiology`, and `Bioinformatics`. My research interests broadly lay on biostatistical methods motivated by analysis of observational studies (_causal inference, missingness, covariate measurement error_) and dealing with high-dimensional biomedical data (_regularization, random forest_).
+I am a PhD student in the [**Quantitative Biomedical Sciences**](https://geiselmed.dartmouth.edu/qbs/) Program at Geisel School of Medicine of Dartmouth College. I am a biomedical data scientist and applied biostatistician with trainings in `Statistical Theory`, `Epidemiology`, and `Bioinformatics`. My research interests broadly lay on biostatistical methods for analysis of observational studies (_causal inference, missingness, covariate measurement error_) and dealing with high-dimensional biomedical data (_regularization, random forest_).
 
 I received my undergraduate trainings from Emory University in Biology and Applied Mathematics & Statistics, where I was a [**Quantitative Theory & Methods Research Fellow**](http://quantitative.emory.edu/people/undergraduate-fellows.html) and [**Emory Undergraduate Summer Research Fellow**](http://college.emory.edu/undergraduate-research/summer/index.html).
 
