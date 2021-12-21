@@ -6,7 +6,7 @@ title: H. Tony Chen
 superuser: true
 
 # Role/position/tagline
-role: PhD Student
+role: Ph.D. Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
