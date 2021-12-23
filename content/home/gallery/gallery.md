@@ -13,4 +13,6 @@ title: Gallery
 subtitle:
 ---
 
+_Some of my casual photographical works._
+
 {{< gallery >}}
