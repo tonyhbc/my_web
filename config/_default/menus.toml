@@ -8,6 +8,12 @@
   url = "#about"
   weight = 10
 
+
+[[main]]
+  name = "Gallery"
+  url = "#gallery/gallery.md"
+  weight = 10
+
 #[[main]]
 #  name = "Posts"
 #  url = "#posts"
