@@ -11,8 +11,12 @@ weight: 66
 
 title: Gallery
 subtitle:
+
+design:
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns: '2'
 ---
 
-_Some of my casual photographical works._
+_Some of my casual photography works._
 
 {{< gallery >}}
