@@ -13,10 +13,10 @@ title: Gallery
 subtitle:
 
 design:
-  # Choose how many columns the section has. Valid values: 1 or 2.
+  # Choose how many columns as the section has. Valid values: 1 or 2.
   columns: '2'
 ---
 
-_Some of my casual photography works._
+> I am a _very_ amateur photographer. Here are some of my casual photography samples, which are mostly landscapes and architectures.
 
 {{< gallery >}}
