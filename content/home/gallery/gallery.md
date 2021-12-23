@@ -13,4 +13,4 @@ title: Gallery
 subtitle:
 ---
 
-image: "gallery/avatar.jpg"
+{{< gallery >}}
