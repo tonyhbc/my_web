@@ -11,7 +11,7 @@
 
 [[main]]
   name = "Gallery"
-  url = "#gallery/gallery.md"
+  url = "#gallery"
   weight = 10
 
 #[[main]]
