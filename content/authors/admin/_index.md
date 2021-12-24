@@ -21,7 +21,7 @@ interests:
 - Causal Inference 
 - Mediation Analysis
 - Covariate Measurement Error
-- Missingness
+- Missing Data
 - Regularized Regression
 - Tree-based Methods
 - Cancer Clinical Epidemiology
