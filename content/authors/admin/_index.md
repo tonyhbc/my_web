@@ -19,9 +19,10 @@ bio: I do research in biostatistics and epidemiological methods.
 # Interests to show in About widget
 interests:
 - Causal Inference 
-- Survival Analysis
+- Time-to-Event Analysis
+- Cancer Research
+- Cardiovascular Health
 - Missing/Mismeasured Data
-- Clinical Epidemiology
 
 # Education to show in About widget
 education:
@@ -68,10 +69,8 @@ email: ""
 highlight_name: true
 ---
 
-I am a PhD student in the [**Quantitative Biomedical Sciences**](https://geiselmed.dartmouth.edu/qbs/profile/haobin-tony-chen/) Program at Geisel School of Medicine of Dartmouth College. 
+I am a PhD student at [**Quantitative Biomedical Sciences**](https://geiselmed.dartmouth.edu/qbs/profile/haobin-tony-chen/) Program, Geisel School of Medicine of Dartmouth College. My research interests lay on biostatistical methods for analysis of observational data, cardiovascular health, clinical cancer research, and health economics/policy.
 
-I am a biomedical data scientist trained in `Statistical Theory`, `Epidemiology`, and `Bioinformatics`. My research interests broadly lay on biostatistical methods for analysis of observational studies and dealing with high-dimensional biomedical data.
-
-I obtained my B.S. from Emory University in Biology and Applied Mathematics & Statistics, where I was a [**Quantitative Theory & Methods Research Fellow**](http://quantitative.emory.edu/people/undergraduate-fellows.html) and [**Emory Undergraduate Summer Research Fellow**](http://college.emory.edu/undergraduate-research/summer/index.html).
+I previously obtained my B.S. from Emory University in Biology and Applied Mathematics & Statistics, where I was a [**Quantitative Theory & Methods Research Fellow**](http://quantitative.emory.edu/people/undergraduate-fellows.html) and [**Emory Undergraduate Summer Research Fellow**](http://college.emory.edu/undergraduate-research/summer/index.html).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
