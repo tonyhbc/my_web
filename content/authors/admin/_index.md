@@ -69,7 +69,7 @@ email: ""
 highlight_name: true
 ---
 
-I am a PhD student at [**Quantitative Biomedical Sciences**](https://geiselmed.dartmouth.edu/qbs/profile/haobin-tony-chen/) Program, Geisel School of Medicine of Dartmouth College. My research interests lay on biostatistical methods for analysis of observational data, cardiovascular health, clinical cancer research, and health economics/policy.
+I am a PhD student at [**Quantitative Biomedical Sciences**](https://geiselmed.dartmouth.edu/qbs/profile/haobin-tony-chen/) Program, Geisel School of Medicine at Dartmouth College. My research interests lay on biostatistical methods for analysis of observational data, cardiovascular health, clinical cancer research, and health economics/policy.
 
 I previously obtained my B.S. from Emory University in Biology and Applied Mathematics & Statistics, where I was a [**Quantitative Theory & Methods Research Fellow**](http://quantitative.emory.edu/people/undergraduate-fellows.html) and [**Emory Undergraduate Summer Research Fellow**](http://college.emory.edu/undergraduate-research/summer/index.html).
 
